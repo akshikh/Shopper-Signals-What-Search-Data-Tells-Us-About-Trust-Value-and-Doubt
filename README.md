@@ -6,6 +6,10 @@ While online search data provides raw insights into what consumers are searching
 Goal –
 Build a keyword-based behavioral segmentation model using Google Trends data to group shoppers based on psychological drivers (e.g., trust, price sensitivity, convenience). Then analyze interest trends over time, volatility, and seasonality — and visualize the insights in Power BI.
 
+<img width="1117" height="631" alt="image" src="https://github.com/user-attachments/assets/f0ee31cf-62b6-4578-a515-b869b9a0e33b" />
+
+
+
 
 Segmentation Approach
 Grouped 12 shopping-related keywords into 4 behavioral clusters:
